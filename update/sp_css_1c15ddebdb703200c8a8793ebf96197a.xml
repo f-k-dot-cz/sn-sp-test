@@ -2,8 +2,7 @@
 <record_update table="sp_css">
     <sp_css action="INSERT_OR_UPDATE">
         <css>body {&#13;
-	background: red;&#13;
-    color: #fff;&#13;
+  	background: #fff;&#13;
     font-family: Arial, sans-serif;&#13;
 }</css>
         <name>tap-css</name>
@@ -12,7 +11,7 @@
         <sys_created_on>2017-02-13 16:00:15</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>1c15ddebdb703200c8a8793ebf96197a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>tap-css</sys_name>
         <sys_package display_value="Testgitapp" source="x_73936_testgitapp">0cb111e3db303200c8a8793ebf96192e</sys_package>
         <sys_policy/>
@@ -20,6 +19,6 @@
         <sys_scope display_value="Testgitapp">0cb111e3db303200c8a8793ebf96192e</sys_scope>
         <sys_update_name>sp_css_1c15ddebdb703200c8a8793ebf96197a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-02-13 16:00:15</sys_updated_on>
+        <sys_updated_on>2017-02-13 16:10:26</sys_updated_on>
     </sp_css>
 </record_update>
